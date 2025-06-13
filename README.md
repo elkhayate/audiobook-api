@@ -2,6 +2,8 @@
 
 A complete NestJS backend for an AI-powered audiobook application that converts PDF documents to audio summaries using OpenAI and ElevenLabs.
 
+[Backend Repository](https://github.com/elkhayate/audiobook-client)
+
 ## 🚀 Features
 
 - **PDF Processing**: Extract text from uploaded PDF files
