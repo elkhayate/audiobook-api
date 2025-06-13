@@ -6,7 +6,7 @@ async function bootstrap() {
   
   // Enable CORS for all origins
   app.enableCors({
-    origin: '*',
+    origin: 'https://audiobook-client-ubz5.vercel.app',
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
     credentials: true,
   });
